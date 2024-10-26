@@ -3,5 +3,6 @@ name = "cisco_decrypt"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
+description = "Simple tool to decrypt Cisco Type 7 passwords"
 
 [dependencies]
